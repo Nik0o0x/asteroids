@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 8613785614791252120}
   - component: {fileID: 8265952293830899834}
   - component: {fileID: 5020401718264281647}
-  - component: {fileID: 2713780531317647654}
+  - component: {fileID: 8082886453716532831}
   m_Layer: 0
   m_Name: kamulec
   m_TagString: Enemy
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6230e0884875874caaa40c5a3f3050a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!122 &2713780531317647654
+--- !u!122 &8082886453716532831
 Halo:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -172,8 +172,8 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-    rgba: 4278215624
-  m_Size: 2.37
+    rgba: 4278212351
+  m_Size: 3
 --- !u!1 &5533927284070479005
 GameObject:
   m_ObjectHideFlags: 0
